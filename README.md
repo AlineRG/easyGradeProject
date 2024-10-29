@@ -1,5 +1,5 @@
 # EasyGrade
-Este repositorio que contiene la informacion para una pagina web para maestros
+This repository contains information for a web page for teachers.
 
 # Table of Contents
 1. [Description](#Description)
